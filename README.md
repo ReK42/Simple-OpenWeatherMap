@@ -2,6 +2,8 @@ Simple OpenWeatherMap
 ======
 **Simple OpenWeatherMap** is a simple Rainmeter skin to display the current weather from https://openweathermap.org
 
+![Screenshot](https://i.imgur.com/8r7aHxo.png)
+
 ## Requirements
 - Windows 7 or later
 - Rainmeter 4.4.0 or later
