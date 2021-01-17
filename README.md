@@ -25,4 +25,4 @@ Once installed and loaded, double click on the skin to open the setting file.
 [Icons](https://github.com/manifestinteractive/weather-underground-icons) Copyright (c) 2016 by  Ashley Jager and Peter Schmalfeldt
 
 ## Licence
-This work is licensed under [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/) <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg">
+This work is licensed under [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/) <img height="22" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg"><img height="22" src="https://mirrors.creativecommons.org/presskit/icons/by.svg"><img height="22" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg">
